@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SharedPreferencesTest</string>
+    <string name="username">UserName</string>
+    <string name="password">PassWord</string>
+    <string name="buttonread">ButtonRead</string>
+    <string name="buttonwrite">ButtonWrite</string>
+</resources>
